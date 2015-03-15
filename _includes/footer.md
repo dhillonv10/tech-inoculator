@@ -1,2 +1,2 @@
-Increasing Probability: [Vikram Dhillon](http://opsbug.com/). Using [SinglePaged theme]
+Increasing Probability: [Vikram Dhillon](http://opsbug.com/). Using [SinglePaged theme](https://github.com/t413/SinglePaged)
 
